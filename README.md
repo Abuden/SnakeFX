@@ -21,16 +21,11 @@ If downloading:
 * [Eclipse](https://www.eclipse.org) - The code editor used
 * [JavaFX](https://gluonhq.com/products/javafx/) - Client application client for desktop
 
-## Upcoming planned features
-  - Automatic restart when game is over
-  - Highest scores
-  - Sound effects
-
 ## Authors
 
 * **Braddy Yeoh** - [Abuden](https://github.com/Abuden)
 
 ## Acknowledgments
 
-* My dear team mates for SWE project in college
+* Google
 * Lecture slides
